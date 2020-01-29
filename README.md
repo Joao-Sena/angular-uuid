@@ -1,8 +1,7 @@
 # Uuid
 
 <p>
-  <img src="https://raw.githubusercontent.com/Joao-Sena/angular-uuid/master/print-desk.PNG" width="48%">
-  <img src="https://raw.githubusercontent.com/Joao-Sena/angular-uuid/master/print-mobile.PNG" width="48%">
+  <img src="https://raw.githubusercontent.com/Joao-Sena/angular-uuid/master/print-desk.PNG" width="94%">
 </p>
 
 Projeto em ANGULAR na versão: 8.3.23
