@@ -1,7 +1,8 @@
 # Uuid
 
 <p>
-  <img src="https://scarletknights.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/6/29/IMGLOGO_colourl_1000x600.jpg" width="40%">
+  <img src="https://raw.githubusercontent.com/Joao-Sena/angular-uuid/master/print-desk.PNG" width="48%">
+  <img src="https://raw.githubusercontent.com/Joao-Sena/angular-uuid/master/print-mobile.PNG" width="48%">
 </p>
 
 Projeto em ANGULAR na versão: 8.3.23
