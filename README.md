@@ -1,6 +1,12 @@
 # Uuid
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+<p>
+  <img src="https://scarletknights.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/6/29/IMGLOGO_colourl_1000x600.jpg" width="40%">
+</p>
+
+Projeto em ANGULAR na versão: 8.3.23
+
+Projeto com exemplo de como gerar o UUID/GUID (identificador único universal)
 
 ## Development server
 
